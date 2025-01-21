@@ -1,0 +1,6 @@
+https://leetcode.com/problems/increasing-triplet-subsequence
+
+Topic 
+
+Array
+Greedy
