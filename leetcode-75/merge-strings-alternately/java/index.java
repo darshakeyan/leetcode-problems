@@ -16,7 +16,7 @@ class Solution {
 }
 
 
-class Solution {
+class Solution1 {
     public String mergeAlternately(String word1, String word2) {
         // Converting string to char of array 
         char[] word1Array = word1.toCharArray(); // [a, b, c]
