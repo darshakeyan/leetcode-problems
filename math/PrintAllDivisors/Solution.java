@@ -1,8 +1,6 @@
 package math.PrintAllDivisors;
 
 
-
-
 import java.util.*;  
 
 public class Solution{
