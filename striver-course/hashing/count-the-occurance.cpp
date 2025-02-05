@@ -28,7 +28,5 @@ int main()
       cout << number << "->" << hash[number] << endl;
     }
     
-
-    
     return 0;
 }
