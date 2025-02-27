@@ -1,0 +1,11 @@
+Assuming if the array doesn't have any duplicates elements in an array 
+
+Approach is very simple here so basically if you have given the array and you have to find the second largest and second smallest element in an array 
+
+1. You will simply sort the array in ascending order 
+2. We know the first element is smallest - the next element is second smallest 
+3. We know the last element is largest - the previous element is second largest 
+
+
+Time Complexity: O(NlogN), For sorting the array
+Space Complexity: O(1)

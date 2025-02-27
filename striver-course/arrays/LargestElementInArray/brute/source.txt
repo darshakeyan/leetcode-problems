@@ -1,0 +1,9 @@
+Solution 
+
+1. Sort the array in ascending order 
+2. Get the last element of an array because that the largest element in an array
+
+
+Time Complexity: O(N*log(N))
+
+Space Complexity: O(n)
